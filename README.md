@@ -37,10 +37,10 @@ Libraries, tools, recipes, sample codes and workshop contents
 - [Sample Workshop Link]
 - 
 
-## Learning
+### Learning
 - [Landmine Guide](https://science.howstuffworks.com/landmine.htm)
 
-## Blog, News & Webinar
+### Blog, News & Webinar
 - [Sample Blog Link]
 - 
 
