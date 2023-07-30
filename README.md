@@ -4,6 +4,7 @@ Libraries, tools, recipes, sample codes and workshop contents
 
 ## Table of Contents
 
+- [NewCo Ideas](#newco-ideas)
 - [Decks](#decks)
 - [Demos](#demos)
 - [Datasets](#datasets)
@@ -13,6 +14,9 @@ Libraries, tools, recipes, sample codes and workshop contents
 - [Blog, News & Webinar](#blog-news--webinar)
 
 ---
+
+### NewCo Ideas
+- [Sample Ideas](https://docs.google.com/spreadsheets/d/1175SDDvagSjWM4_4W6ypHjVgK3xnK0Cgx5-_hMp7CrI/edit?usp=sharing) - Google sheet
 
 ### Decks
 - [NewCo Pitch Deck](https://docs.google.com/presentation/d/1O4C9i_v0oVQ80Kh8onCf2RDH0VmWfZRfbQFM1Q4xtco/edit?usp=sharing) - Google Slide
