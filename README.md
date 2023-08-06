@@ -41,7 +41,7 @@ Libraries, tools, recipes, sample codes and workshop contents
 - [Landmine Guide](https://science.howstuffworks.com/landmine.htm)
 
 ### Blog, News & Webinar
-- [Sample Blog Link]
+- [Halo Org](https://www.halousa.org/where-we-work/europe-and-caucasus/ukraine/)
 - 
 
 
