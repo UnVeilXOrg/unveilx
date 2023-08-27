@@ -2,7 +2,7 @@
 - [Zohran](https://github.com/zamoin)
 - [Navin](https://github.com/navinagrawalchung07)
 
-# NewCo1
+# NewCo1 - Drone Landmine Detectors
 
 Libraries, tools, recipes, sample codes and workshop contents
 
