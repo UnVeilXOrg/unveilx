@@ -8,6 +8,7 @@ Libraries, tools, recipes, sample codes and workshop contents
 
 ## Table of Contents
 
+- [Latest Docs](#latest)
 - [NewCo Ideas](#newco-ideas)
 - [Decks](#decks)
 - [Demos](#demos)
@@ -18,6 +19,12 @@ Libraries, tools, recipes, sample codes and workshop contents
 - [Blog, News & Webinar](#blog-news--webinar)
 
 ---
+
+### Latest
+[POM Mines deck](https://docs.google.com/presentation/d/1e8E3HpGkbENHdFpykWYtvuz-aLV_CYSlu6RGBpuXPIw/edit?usp=sharing)
+[POM Mine Mockup](https://drive.google.com/file/d/1qSU1NYX8NQ88iLAGlxIWOBqrAMsy4OlD/view?usp=sharing)
+[New Dataset](https://drive.google.com/drive/folders/1bB3MPTHTU5WEQQ9kND511h1soW2ZlwRB?usp=drive_link)
+[Mine Mockup Video](https://drive.google.com/file/d/1qSU1NYX8NQ88iLAGlxIWOBqrAMsy4OlD/view)
 
 ### NewCo Ideas
 - [Sample Ideas](https://docs.google.com/spreadsheets/d/1175SDDvagSjWM4_4W6ypHjVgK3xnK0Cgx5-_hMp7CrI/edit?usp=sharing) - Google sheet
