@@ -1,4 +1,4 @@
-# NewCo1 - Drone Landmine Detectors
+# NewCo1 - AI Powered Drone to Save a Life
 
 Libraries, tools, recipes, sample codes and workshop contents
 
