@@ -6,7 +6,7 @@ youtubeId: 8lw1sRACGTzwGpcr
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-## Contributors
+## Founders
 - [Navin](https://github.com/navinagrawalchung07)
 - [Zohran](https://github.com/zamoin)
 
