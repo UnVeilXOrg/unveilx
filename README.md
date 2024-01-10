@@ -1,10 +1,5 @@
----
-youtubeId: oUgdcvqK7xg
----
-
 # UnVeilX - AI Powered Drone to Save a Life
 
-{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Founders
 - [Navin](https://github.com/navinagrawalchung07)
