@@ -1,6 +1,10 @@
+---
+youtubeId: 8lw1sRACGTzwGpcr
+---
+
 # UnVeilX - AI Powered Drone to Save a Life
 
-Libraries, tools, recipes, sample codes and workshop contents
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Contributors
 - [Navin](https://github.com/navinagrawalchung07)
