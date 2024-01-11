@@ -22,11 +22,11 @@ in Ukraine by using flyby drone videos.
 - [Navin](https://github.com/navinagrawalchung07)
 - [Zohran](https://github.com/zamoin)
 
+---
 
 ### Learning
 - [Landmine Guide](https://science.howstuffworks.com/landmine.htm)
   
-
 ### Blog, News & Webinar
 - [UnVeilX Blog](https://blog.unveilx.org)
 - [Halo Org](https://www.halousa.org/where-we-work/europe-and-caucasus/ukraine/)
