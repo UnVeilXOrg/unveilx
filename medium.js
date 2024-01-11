@@ -1,7 +1,7 @@
 $(function () {
     var $content = $('#jsonContent');
 
-    var mediumName = "unveilx"
+    var mediumName = "@unveilx"
 
     var data = {  
        // rss_url: 'https://medium.com/feed/@'+mediumName
