@@ -25,8 +25,7 @@ in Ukraine by using flyby drone videos.
 
 ### Learning
 - [Landmine Guide](https://science.howstuffworks.com/landmine.htm)
-
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`unveilx`"/>
+  
 
 ### Blog, News & Webinar
 - [UnVeilX Blog](https://blog.unveilx.org)
