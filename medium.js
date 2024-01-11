@@ -5,7 +5,7 @@ $(function () {
 
     var data = {  
        // rss_url: 'https://medium.com/feed/@'+mediumName
-       rss_url:  'https://raw.githubusercontent.com/warrensbox/medium-to-html/master/output.xml'
+       rss_url:  'https://raw.githubusercontent.com/UnVeilxOrg/unveilx/medium-to-html/master/output.xml'
     };
     $.get('https://api.rss2json.com/v1/api.json', data, function (response) {
         if (response.status == 'ok') {
