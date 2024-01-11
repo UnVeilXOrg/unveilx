@@ -28,7 +28,6 @@ in Ukraine by using flyby drone videos.
 
 ### Blog, News & Webinar
 - [Halo Org](https://www.halousa.org/where-we-work/europe-and-caucasus/ukraine/)
-- 
 
 
 <br>
