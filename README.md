@@ -20,12 +20,12 @@ in Ukraine by using flyby drone videos.
   
 ### Blog
 <p align="center">
-  <img alt="Light" src="./images/IMG_1.png" width="45%">
+  <a href="https://blog.unveilx.org/azure-auto-ml-f3a17d12f7eb"><img alt="Light" src="./images/IMG_1.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="./images/IMG_2.png" width="45%">
+  <a href="https://blog.unveilx.org/data-labeling-2cfd5724df28"><img alt="Dark" src="./images/IMG_2.png" width="45%">
 </p>
 <p align="center">
-  <img alt="Light" src="./images/IMG_3.png" width="45%">
+  <a href="https://blog.unveilx.org/microsoft-selected-us-for-their-startup-program-b2a139c188c8"><img alt="Light" src="./images/IMG_3.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="./images/IMG_4.png" width="45%">
+  <a href="https://blog.unveilx.org/drone-video-inferencing-13eaa13e5572"><img alt="Dark" src="./images/IMG_4.png" width="45%">
 </p>
