@@ -58,5 +58,5 @@ in Ukraine by using flyby drone videos.
 #### Videos
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=p046RHtQTT8" target="_blank">
- <img src="http://img.youtube.com/vi/v=p046RHtQTT8/mqdefault.jpg" alt="Watch the video" width="380" height="280" border="10" />
+ <img src="http://img.youtube.com/vi/p046RHtQTT8/mqdefault.jpg" alt="Watch the video" width="380" height="280" border="10" />
 </a>
