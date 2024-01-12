@@ -52,3 +52,11 @@ in Ukraine by using flyby drone videos.
 &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://blog.unveilx.org/drone-video-inferencing-13eaa13e5572"><img alt="Dark" src="./images/IMG_4.png" width="45%">
 </p>
+
+------
+
+#### Videos
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=p046RHtQTT8" target="_blank">
+ <img src="http://img.youtube.com/vi/v=p046RHtQTT8/mqdefault.jpg" alt="Watch the video" width="380" height="280" border="10" />
+</a>
