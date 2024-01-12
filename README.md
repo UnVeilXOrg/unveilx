@@ -35,9 +35,11 @@ in Ukraine by using flyby drone videos.
 - [UnVeilX Blog](https://blog.unveilx.org)
 - [Halo Org](https://www.halousa.org/where-we-work/europe-and-caucasus/ukraine/)
 
+-----
+
 
   
-## Recent Posts
+### Recent Posts
 
 <p align="center">
   <a href="https://blog.unveilx.org/azure-auto-ml-f3a17d12f7eb"><img alt="Light" src="./images/IMG_1.png" width="45%">
