@@ -19,23 +19,26 @@ deep learning models that pinpoint some of the most common POM-2 and POM-3 landm
 in Ukraine by using flyby drone videos.
 
 ## Founders
+
 - [Navin](https://github.com/navinagrawalchung07)
 - [Zohran](https://github.com/zamoin)
 
 
-### Learning
+## Learning
+
 - [Landmine Guide](https://science.howstuffworks.com/landmine.htm)
 
   
 
-### Blog, News & Webinar
+## Blog, News & Webinar
+
 - [UnVeilX Blog](https://blog.unveilx.org)
 - [Halo Org](https://www.halousa.org/where-we-work/europe-and-caucasus/ukraine/)
 
 
------ 
   
-### Posts
+## Posts
+
 <p align="center">
   <a href="https://blog.unveilx.org/azure-auto-ml-f3a17d12f7eb"><img alt="Light" src="./images/IMG_1.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
