@@ -37,7 +37,7 @@ in Ukraine by using flyby drone videos.
 
 
   
-## Posts
+## Recent Posts
 
 <p align="center">
   <a href="https://blog.unveilx.org/azure-auto-ml-f3a17d12f7eb"><img alt="Light" src="./images/IMG_1.png" width="45%">
