@@ -17,15 +17,6 @@ satellites and drones but with limited success as detection accuracy is very low
 - Solution - UnVeilX solution is to improve the accuracy and efficiency of demining and make it less risky by training
 deep learning models that pinpoint some of the most common POM-2 and POM-3 landmines used
 in Ukraine by using flyby drone videos.
-
-## Founders
-- [Navin](https://github.com/navinagrawalchung07)
-- [Zohran](https://github.com/zamoin)
-
----
-
-### Learning
-- [Landmine Guide](https://science.howstuffworks.com/landmine.htm)
   
 ### Blog
 <p align="center">
